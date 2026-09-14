@@ -10,9 +10,9 @@ public class Date {
 	System.out.print(", ");
 	System.out.print(month);
 	System.out.print(" ");
-	System.out.print(day);
+	System.out.print(date);
 	System.out.print(", ");
-	System.out.print(year);
+	System.out.println(year);
 	
 	System.out.print("European format: ");
 	System.out.print(day);
